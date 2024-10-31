@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Profile Update Notification\n"
+"POT-Creation-Date: 2015-10-08 07:39+0200\n"
+"PO-Revision-Date: 2015-10-08 07:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: AllAboutWeb.ch <support@allaboutweb.ch>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: pun.php\n"
+
+#: pun.php:15
+msgid "Profile Update Notification Settings"
+msgstr "Profile Update Notification Einstellungen"
+
+#: pun.php:34
+#, php-format
+msgid ""
+"The Profile Update Notification plugin needs the %s to be installed AND "
+"activated!"
+msgstr ""
+"Das Profile Update Notification Plugin erfordert die Installation und "
+"Aktivierung des %s !"
+
+#: pun.php:40
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+#: pun.php:114
+msgid "Attribute"
+msgstr "Feld"
+
+#: pun.php:114
+msgid "Old value"
+msgstr "Alter Wert"
+
+#: pun.php:114
+msgid "New value"
+msgstr "Neuer Wert"
+
+#: pun.php:129
+msgid "User profile update!"
+msgstr "Benutzerprofil Update!"
+
+#: pun.php:134
+msgid " has changed his profile!"
+msgstr "hat sein Profil geändert!"
+
+#: pun.php:135
+msgid "The following attributes has been changed:"
+msgstr "Die folgenden Felder wurden geändert:"
+
+#: pun.php:157
+msgid "Cheatin' uh?"
+msgstr "Cheatin' uh?"
+
+#: pun.php:168
+msgid "Notifications active?"
+msgstr "Benachrichtigungen einschalten?"
+
+#: pun.php:172
+msgid "Send notifications to users with the following roles"
+msgstr "Sende Benachrichtigungen an Benutzer mit folgenden Rollen"
+
+#: pun.php:188
+msgid "Send notifications when the following field has been changed"
+msgstr "Sende Benachrichtigungen wenn folgende Felder geändert wurden"
